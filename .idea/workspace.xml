@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f102debb-44d0-4caf-9a0c-219e124fea9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wings/designs/ProyectoFraude/jwt/JwtTokenVerfier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wings/designs/ProyectoFraude/jwt/JwtTokenVerfier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wings/designs/ProyectoFraude/security/ApplicationSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wings/designs/ProyectoFraude/security/ApplicationSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wings/designs/ProyectoFraude/security/ApplicationSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wings/designs/ProyectoFraude/security/ApplicationSecurityConfig.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="login" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/lang/String.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sY1tKEC1QqdELpoQOqRcgldSWN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-security/2.4.5/spring-boot-starter-security-2.4.5-sources.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4899635" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wings.designs.ProyectoFraude.persistence.validation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProyectoFraudeApplication">
+    <configuration name="generated-requests#12" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="12" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="6" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#7" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="7" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="ProyectoFraudeApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoFraude" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wings.designs.ProyectoFraude.persistence.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wings.designs.ProyectoFraude" />
+      <option name="MAIN_CLASS_NAME" value="com.wings.designs.ProyectoFraude.ProyectoFraudeApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProyectoFraudeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ProyectoFraude" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wings.designs.ProyectoFraude.ProyectoFraudeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProyectoFraudeApplicationTests.contextLoads" />
+        <item itemvalue="HTTP Request.generated-requests#12" />
+        <item itemvalue="HTTP Request.generated-requests#7" />
+        <item itemvalue="HTTP Request.generated-requests#6" />
+        <item itemvalue="HTTP Request.generated-requests#4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f102debb-44d0-4caf-9a0c-219e124fea9a" name="Default Changelist" comment="" />
+      <created>1621034923699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621034923699</updated>
+      <workItem from="1621034925261" duration="4583000" />
+      <workItem from="1621112920677" duration="1172000" />
+      <workItem from="1621611107339" duration="5742000" />
+      <workItem from="1622049664425" duration="11578000" />
+      <workItem from="1622598032403" duration="16705000" />
+      <workItem from="1622666906543" duration="11026000" />
+      <workItem from="1622722354480" duration="1072000" />
+      <workItem from="1622723546404" duration="1185000" />
+      <workItem from="1622724783439" duration="344000" />
+      <workItem from="1622725510185" duration="138000" />
+      <workItem from="1622725676476" duration="1224000" />
+      <workItem from="1622726949725" duration="1737000" />
+      <workItem from="1622728713281" duration="22465000" />
+      <workItem from="1623252714833" duration="661000" />
+      <workItem from="1623253515827" duration="844000" />
+      <workItem from="1623254388350" duration="34659000" />
+      <workItem from="1623332543300" duration="259000" />
+      <workItem from="1623332870037" duration="23853000" />
+      <workItem from="1623370439968" duration="2717000" />
+      <workItem from="1623460505887" duration="3486000" />
+      <workItem from="1623464777159" duration="1299000" />
+      <workItem from="1623466341343" duration="886000" />
+      <workItem from="1623467382810" duration="2819000" />
+      <workItem from="1623472618470" duration="1199000" />
+      <workItem from="1623767566972" duration="2463000" />
+      <workItem from="1623800696171" duration="23173000" />
+      <workItem from="1623860454341" duration="17986000" />
+      <workItem from="1623955371746" duration="13996000" />
+      <workItem from="1624572776632" duration="4872000" />
+      <workItem from="1624633756363" duration="2878000" />
+      <workItem from="1624644782259" duration="5188000" />
+      <workItem from="1624650983543" duration="457000" />
+      <workItem from="1624651637685" duration="15857000" />
+      <workItem from="1624743715428" duration="990000" />
+      <workItem from="1624838197173" duration="6395000" />
+      <workItem from="1624923893857" duration="2993000" />
+      <workItem from="1624927110229" duration="6368000" />
+      <workItem from="1625004737085" duration="13519000" />
+      <workItem from="1625030792091" duration="209000" />
+      <workItem from="1625669847728" duration="14081000" />
+      <workItem from="1625684800303" duration="1828000" />
+      <workItem from="1625686999210" duration="153000" />
+      <workItem from="1625687320113" duration="17212000" />
+      <workItem from="1625707196987" duration="49000" />
+      <workItem from="1625707923297" duration="1558000" />
+      <workItem from="1625856895451" duration="3109000" />
+      <workItem from="1625871950862" duration="15993000" />
+      <workItem from="1626303997414" duration="9571000" />
+      <workItem from="1626359177430" duration="4969000" />
+      <workItem from="1626469302769" duration="12155000" />
+      <workItem from="1626553239593" duration="43891000" />
+      <workItem from="1626634288001" duration="12639000" />
+      <workItem from="1626656859392" duration="25105000" />
+      <workItem from="1626729813034" duration="27827000" />
+      <workItem from="1626810614684" duration="31210000" />
+      <workItem from="1626845331572" duration="4047000" />
+      <workItem from="1626852757710" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="org.postgresql.util.PSQLException" package="org.postgresql.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="javax.validation.UnexpectedTypeException" package="javax.validation" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.dao.InvalidDataAccessApiUsageException" package="org.springframework.dao" />
+          <option name="timeStamp" value="40" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wings/designs/ProyectoFraude/requestbody/NewTicketRequest.java</url>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="ex.detailMessage" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

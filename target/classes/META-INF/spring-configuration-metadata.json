@@ -1,0 +1,53 @@
+{
+  "groups": [
+    {
+      "name": "application.jwt",
+      "type": "com.wings.designs.ProyectoFraude.jwt.JwtConfig",
+      "sourceType": "com.wings.designs.ProyectoFraude.jwt.JwtConfig"
+    },
+    {
+      "name": "spring.mail",
+      "type": "com.wings.designs.ProyectoFraude.service.notification.NotificationConfig",
+      "sourceType": "com.wings.designs.ProyectoFraude.service.notification.NotificationConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "application.jwt.secret-key",
+      "type": "java.lang.String",
+      "description": "The secret key for the jason web token.",
+      "sourceType": "com.wings.designs.ProyectoFraude.jwt.JwtConfig"
+    },
+    {
+      "name": "application.jwt.token-expiration-after-hours",
+      "type": "java.lang.Integer",
+      "description": "the expiration in hours of the jason web token.",
+      "sourceType": "com.wings.designs.ProyectoFraude.jwt.JwtConfig"
+    },
+    {
+      "name": "application.jwt.token-prefix",
+      "type": "java.lang.String",
+      "description": "The prefix of the jason web token.",
+      "sourceType": "com.wings.designs.ProyectoFraude.jwt.JwtConfig"
+    },
+    {
+      "name": "spring.mail.host",
+      "type": "java.lang.String",
+      "description": "the host for sending emails.",
+      "sourceType": "com.wings.designs.ProyectoFraude.service.notification.NotificationConfig"
+    },
+    {
+      "name": "spring.mail.password",
+      "type": "java.lang.String",
+      "description": "the password of the username that sends emails.",
+      "sourceType": "com.wings.designs.ProyectoFraude.service.notification.NotificationConfig"
+    },
+    {
+      "name": "spring.mail.username",
+      "type": "java.lang.String",
+      "description": "the mail where it sends emails.",
+      "sourceType": "com.wings.designs.ProyectoFraude.service.notification.NotificationConfig"
+    }
+  ],
+  "hints": []
+}

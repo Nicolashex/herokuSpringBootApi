@@ -1,0 +1,650 @@
+POST http://localhost:8080/api/v1/user/create
+Content-Type: application/json
+
+{
+  "rut":"123123123-K",
+  "password":"password",
+  "fullName":"Vin The Hero of Ages",
+  "address":"MistBorn 1223",
+  "email":"aasdasdasd@san.cl",
+  "account":1,
+  "userType":"CLIENTE"
+}
+
+###
+
+POST http://localhost:8080/api/v1/user
+Content-Type: application/json
+
+{
+  "rut":"123123123-K",
+  "password":"password",
+  "fullName":"Vin The Hero of Ages",
+  "address":"MistBorn 1223",
+  "email":"aasdasdasd@san.cl",
+  "account":1,
+  "userType":"CLIENTE"
+}
+
+###
+
+POST http://localhost:8080/api/v1/user
+Content-Type: application/json
+
+{
+  "rut":"123123123-K",
+  "password":"password",
+  "fullName":"Vin The Hero of Ages",
+  "address":"MistBorn 1223",
+  "email":"aasdasdasd@san.cl",
+  "account":1,
+  "userType":"CLIENTE"
+}
+
+###
+
+POST http://localhost:8080/api/v1/user
+Content-Type: application/json
+
+{
+  "rutUser":"21313131-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"aczcvfd@llord.cl",
+  "accountNumber":2
+}
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{
+  "rutUser":"2211544-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"ll@llord.cl",
+  "accountNumber":2
+  }
+
+<> 2021-06-03T182101.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{
+  "rutUser":"2211544-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"ll@llord.cl",
+  "accountNumber":2
+  }
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{
+  "rutUser":"2211544-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@llord.cl",
+  "accountNumber":2
+  }
+
+<> 2021-06-03T181318.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{
+  "rutUser":"22115544-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@llord.cl",
+  "accountNumber":2
+  }
+
+<> 2021-06-03T181306.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{
+  "rutUser":"22115544-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@llord.cl",
+  "accountNumber":2
+  }
+
+<> 2021-06-03T175542.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{
+  "rutUser":"22115544-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@llord.cl",
+  "accountNumber":2
+  }
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{
+  "rutUser":"22115544-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@llord.cl",
+  "accountNumber":2
+  }
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{
+  "rutUser":"221155446-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@lord.cl",
+  "accountNumber":2
+  }
+
+<> 2021-06-03T175403.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{
+  "rutUser":"221155446-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@lord.cl",
+  "accountNumber":2
+  }
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{
+  "rutUser":"221155446-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@lord.cl",
+  "accountNumber":2
+  }
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{
+  "rutUser":"221155446-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@lord.cl",
+  "accountNumber":2
+  }
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{"id":85,
+  "rutUser":"22115255446-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@lord.cl",
+  "accountNumber":2,
+  "userType":"MANAGER"}
+
+<> 2021-06-03T174120.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{"id":85,
+  "rutUser":"22115255446-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@lord.cl",
+  "accountNumber":2,
+  "userType":"MANAGER"}
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{"id":85,
+  "rutUser":"22115255446-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kell@lord.cl",
+  "accountNumber":2,
+  "userType":"MANAGER"}
+
+<> 2021-06-03T173701.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{"id":2,
+  "rutUser":"225255446-8",
+  "passwordUser":"1234",
+  "fullNameUser":"Kellsier ",
+  "addressUser":"MistBorn 3321",
+  "emailUser":"kel@lord.cl",
+  "accountNumber":2,
+  "userType":"MANAGER"}
+
+<> 2021-06-03T173614.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{"rutUser":"321312-K",
+  "passwordUser": "3331321",
+  "fullNameUser":"Ryo",
+  "addressUser":"LLL 2213",
+  "emailUser":"sadadd@dsadsad.cl",
+  "accountNumber":55}
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{"rutUser":"321312-K",
+  "passwordUser": "3331321",
+  "fullNameUser":"Ryo",
+  "addressUser":"LLL 2213",
+  "emailUser":"sadadd@dsadsad.cl",
+  "accountNumber":55}
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{"rutUser":"321312-K",
+  "passwordUser": "3331321",
+  "fullNameUser":"Ryo",
+  "addressUser":"LLL 2213",
+  "emailUser":"sadadd@dsadsad.cl",
+  "accountNumber":55}
+
+###
+
+POST http://localhost:8080/api/v1/Users
+Content-Type: application/json
+
+{"rutUser":"321312-K",
+  "passwordUser": "3331321",
+  "fullNameUser":"Ryo",
+  "addressUser":"LLL 2213",
+  "emailUser":"sadadd@dsadsad.cl",
+  "accountNumber":55}
+
+###
+
+POST http://localhost:8080/api/v1/Users/registerUser/
+Content-Type: application/json
+
+{"rutUser":"321312-K",
+  "passwordUser": "3331321",
+  "fullNameUser":"Ryo",
+  "addressUser":"LLL 2213",
+  "emailUser":"sadadd@dsadsad.cl",
+  "accountNumber":55}
+
+###
+
+POST http://localhost:8080/api/v1/Users/registerUser
+Content-Type: application/json
+
+{"rutUser":"321312-K",
+  "passwordUser": "3331321",
+  "fullNameUser":"Ryo",
+  "addressUser":"LLL 2213",
+  "emailUser":"sadadd@dsadsad.cl",
+  "accountNumber":55}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"asdasa-K",
+  "fullName":"Ryo",
+  "address":"xczxczx",
+  "mail":"sadadd@dsadsad.cl",
+  "accountNumber":55}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22245243-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fakjk@ucn.cl",
+"accountNumber":214143}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"222243-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fajkjkjk@ucn.cl",
+"accountNumber":22453}
+
+<> 2021-06-03T065115.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"222243-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fajkjkjk@ucn.cl",
+"accountNumber":22453}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"222243-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fajkjkjk@ucn.cl",
+"accountNumber":22453}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fajkjkjk@ucn.cl",
+"accountNumber":22453}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fajkjkjk@ucn.cl",
+"accountNumber":22453}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fajkjkjk@ucn.cl",
+"accountNumber":223}
+
+<> 2021-06-02T174707.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fajk@ucn.cl",
+"accountNumber":223}
+
+<> 2021-06-02T174649.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fajk@ucn.cl",
+"accountNumber":223}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fajk@ucn.cl",
+"accountNumber":223}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fajk@ucn.cl",
+"accountNumber":223}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fa@ucn.cl",
+"accountNumber":3}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fa@ucn.cl",
+"accountNumber":3}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fa@ucn.cl",
+"accountNumber":3}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fa@ucn.cl",
+"accountNumber":3}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"fa@ucn.cl",
+"accountNumber":33}
+
+<> 2021-06-02T173753.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"hans@ucn.cl",
+"accountNumber":33}
+
+<> 2021-06-02T173735.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"22223-K",
+"fullName":"Hans Jennings",
+"address":"Angamos 0410",
+"mail":"hans@ucn.cl",
+"accountNumber":33}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"asdasa-K",
+  "fullName":"Ryo",
+  "address":"xczxczx",
+  "mail":"sadadd@dsadsad.cl",
+  "accountNumber":55}
+
+<> 2021-06-02T031119.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"asdasa-K",
+  "fullName":"Ryo",
+  "address":"xczxczx",
+  "mail":"sadadd@dsadsad.cl",
+  "accountNumber":55}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"asdasa-K",
+  "fullName":"Ryo",
+  "address":"xczxczx",
+  "mail":"sadadd@dsadsad.cl",
+  "accountNumber":2}
+
+<> 2021-06-02T025601.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"asdasa-K",
+  "fullName":"Ryo",
+  "address":"xczxczx",
+  "mail":"sadadd@dsadsad.cl",
+  "accountNumber":2}
+
+<> 2021-06-02T025457.500.json
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"asdasdsa-K",
+  "fullName":"Ryo",
+  "address":"xczxczx",
+  "mail":"sadadd@dsadsad.cl",
+  "accountNumber":2}
+
+###
+
+POST http://localhost:8080/api/v1/Client
+Content-Type: application/json
+
+{"rut":"asdasdsa-K",
+  "fullName":"Ryo",
+  "address":"xczxczx",
+  "mail":"sadadddd@dsadsad.cl",
+  "accountNumber":2}
+
+<> 2021-06-02T025432.500.json
+
+###
+
