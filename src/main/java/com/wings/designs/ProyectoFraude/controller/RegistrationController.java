@@ -53,6 +53,7 @@ public class RegistrationController {
      */
     @PostMapping
     public void registerNewUser(@Valid @RequestBody final RegistrationRequest registrationRequest) {
+        System.out.println(registrationRequest.toString());
         clientService.addNewClient(registrationRequest);
 
     }

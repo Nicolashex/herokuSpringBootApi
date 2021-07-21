@@ -152,4 +152,17 @@ public class RegistrationRequest {
     public String getPhoneNumber() {
         return phoneNumber;
     }
+
+    @Override
+    public String toString() {
+        return "RegistrationRequest{" +
+                "rut='" + rut + '\'' +
+                ", password='" + password + '\'' +
+                ", fullName='" + fullName + '\'' +
+                ", address='" + address + '\'' +
+                ", email='" + email + '\'' +
+                ", account='" + account + '\'' +
+                ", phoneNumber='" + phoneNumber + '\'' +
+                '}';
+    }
 }
